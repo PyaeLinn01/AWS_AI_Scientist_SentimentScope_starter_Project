@@ -5,7 +5,7 @@ This project fine-tunes a minimalist transformer classifier ("DemoGPT") for bina
 - **Notebook**: `SentimentScope_starter_final.ipynb`
 - **Dataset**: IMDB reviews (`aclImdb`)
 - **Goal**: Achieve >75% test accuracy
-- **Your result**: Val 78.52%, Test 77.04%
+- **Result**: Val 78.52%, Test 77.04%
 
 ## Project structure
 - `SentimentScope_starter_final.ipynb` — complete end-to-end workflow
